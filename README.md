@@ -1,1 +1,5 @@
-Estamos finalizando nossa aplicação 🎉 e nesta aula vamos refinar a aplicação criando adaptações para diversos dispositivos. Colocaremos nosso código no GitHub e teremos um link para que nossos colegas, familiares ou clientes, possam ver o projeto funcionando. Além disso, apresentaremos desafios para que você continue evoluindo nesse universo da programação.
+## Este é um projeto pilo com base na NLW Togheter 6 - Trilha Origin.
+
+## Fiz uma adaptação para uma apresentação profissional baseada no meu Linkedin
+
+http://linkedin.com/in/rafaelangelov
