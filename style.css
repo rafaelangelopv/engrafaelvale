@@ -574,6 +574,7 @@ footer .social a:hover {
   nav .menu ul li a.title.active {
     font-weight: bold;
     -webkit-font-smoothing: auto;
+    margin-right: 2rem;
   }
 
   nav .icon-menu {
